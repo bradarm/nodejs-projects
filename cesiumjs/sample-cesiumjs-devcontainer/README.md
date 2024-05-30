@@ -12,7 +12,7 @@ A starter CesiumJS devcontainer, leveraging [Cesium's Webpack 4 Example](https:/
 
 1. Copy the value under `Token`
 
-1. Create a `.env` file in the root directory of this repository containing the following, where `<Token Value>` is replaced by the token copid in the previous step:
+1. Create a `.env` file in the root directory of this repository containing the following, where `<Token Value>` is replaced by the token copied in the previous step:
     ````
     CESIUM_TOKEN=<Token Value>
     ````
