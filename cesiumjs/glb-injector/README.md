@@ -1,5 +1,5 @@
 # CesiumJS GLB Injector
-In this project
+This project demonstrates how GLB assets can be configurably injected into Cesium. Out of the box, this example will spawn Godzilla in several locations around the world. However, any asset can be spawned provided its GLB exists in the `assets/glb` directory and it has been fully specified in `glb-config.json`.
 
 ## Setup
 1. Create a free [Cesium Account](https://ion.cesium.com/signup/)
