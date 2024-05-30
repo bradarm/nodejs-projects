@@ -5,4 +5,4 @@ A collection of hobbyist Node.js projects.
 
 - [NodeJS Devcontainer](sample-devcontainer/README.md)
 - [ThreeJS Devcontainer](sample-threejs-devcontainer/README.md)
-- [CesiumJS Devcontainer](sample-cesiumjs-devcontainer/README.md)
+- [CesiumJS Devcontainer](cesiumjs/sample-cesiumjs-devcontainer/README.md)
