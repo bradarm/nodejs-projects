@@ -1,0 +1,124 @@
+{
+    "assets": [
+        {
+            "name": "Godzilla 1",
+            "position": {
+                "longitudeDegrees": -74.0060,
+                "latitudeDegrees": 40.7128,
+                "heightMeters": 0
+            },
+            "orientation": {
+                "headingDegrees": 45,
+                "pitchDegrees": 0,
+                "rollDegrees": 0
+            },
+            "pixelSize": 128,
+            "modelPath": "assets/glb/godzilla.glb"
+        },
+        {
+            "name": "Godzilla 2",
+            "position": {
+                "longitudeDegrees": -0.1276,
+                "latitudeDegrees": 51.5074,
+                "heightMeters": 0
+            },
+            "orientation": {
+                "headingDegrees": 230,
+                "pitchDegrees": 0,
+                "rollDegrees": 0
+            },
+            "pixelSize": 128,
+            "modelPath": "assets/glb/godzilla.glb"
+        },
+        {
+            "name": "Godzilla 3",
+            "position": {
+                "longitudeDegrees": 139.6503,
+                "latitudeDegrees": 35.6762,
+                "heightMeters": 0
+            },
+            "orientation": {
+                "headingDegrees": 275,
+                "pitchDegrees": 0,
+                "rollDegrees": 0
+            },
+            "pixelSize": 128,
+            "modelPath": "assets/glb/godzilla.glb"
+        },
+        {
+            "name": "Godzilla 4",
+            "position": {
+                "longitudeDegrees": 151.2093,
+                "latitudeDegrees": -33.8688,
+                "heightMeters": 0
+            },
+            "orientation": {
+                "headingDegrees": 120,
+                "pitchDegrees": 0,
+                "rollDegrees": 0
+            },
+            "pixelSize": 128,
+            "modelPath": "assets/glb/godzilla.glb"
+        },
+        {
+            "name": "Godzilla 5",
+            "position": {
+                "longitudeDegrees": 121.4737,
+                "latitudeDegrees": 31.2304,
+                "heightMeters": 0
+            },
+            "orientation": {
+                "headingDegrees": 45,
+                "pitchDegrees": 0,
+                "rollDegrees": 0
+            },
+            "pixelSize": 128,
+            "modelPath": "assets/glb/godzilla.glb"
+        },
+        {
+            "name": "Godzilla 6",
+            "position": {
+                "longitudeDegrees": 2.3522,
+                "latitudeDegrees": 48.8566,
+                "heightMeters": 0
+            },
+            "orientation": {
+                "headingDegrees": 300,
+                "pitchDegrees": 0,
+                "rollDegrees": 0
+            },
+            "pixelSize": 128,
+            "modelPath": "assets/glb/godzilla.glb"
+        },
+        {
+            "name": "Godzilla 7",
+            "position": {
+                "longitudeDegrees": 12.4964,
+                "latitudeDegrees": 41.9028,
+                "heightMeters": 0
+            },
+            "orientation": {
+                "headingDegrees": 180,
+                "pitchDegrees": 0,
+                "rollDegrees": 0
+            },
+            "pixelSize": 128,
+            "modelPath": "assets/glb/godzilla.glb"
+        },
+        {
+            "name": "Godzilla 8",
+            "position": {
+                "longitudeDegrees": -58.3816,
+                "latitudeDegrees": -34.6037,
+                "heightMeters": 0
+            },
+            "orientation": {
+                "headingDegrees": 90,
+                "pitchDegrees": 0,
+                "rollDegrees": 0
+            },
+            "pixelSize": 128,
+            "modelPath": "assets/glb/godzilla.glb"
+        }
+    ]
+}
