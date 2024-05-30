@@ -1,7 +1,7 @@
 # Sample ThreeJS Devcontainer
 A starter CesiumJS devcontainer, leveraging [Cesium's Webpack 4 Example](https://github.com/CesiumGS/cesium-webpack-example/tree/main/webpack-4).
 
-## Usage
+## Setup
 1. Create a free [Cesium Account](https://ion.cesium.com/signup/)
 
 1. Go to [Cesium Ion](https://ion.cesium.com) and select `Access Tokens`
@@ -17,6 +17,7 @@ A starter CesiumJS devcontainer, leveraging [Cesium's Webpack 4 Example](https:/
     CESIUM_TOKEN=<Token Value>
     ````
 
+## Usage
 1. Open this project in the provided devcontainer:
     ```
     F1-> DevContainers: Rebuild and Reopen in Container
