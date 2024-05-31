@@ -38,4 +38,6 @@ This project demonstrates how GLB assets can be configurably injected into Cesiu
     ```
 
 ## Attribution
-"Godzilla" (https://skfb.ly/oHwV8) by David Wigforss is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+- "Dancing_Penguin" (https://skfb.ly/6QZCU) by twilighthall83 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Godzilla" (https://skfb.ly/oHwV8) by David Wigforss is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+- "Moorhuhn / Crazy Chicken" (https://skfb.ly/oNp9G) by nthmn.exe is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

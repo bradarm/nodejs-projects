@@ -1,10 +1,10 @@
 {
     "assets": [
         {
-            "name": "Godzilla 1",
+            "name": "Chicken 1",
             "position": {
-                "longitudeDegrees": -74.0060,
-                "latitudeDegrees": 40.7128,
+                "longitudeDegrees": -345.076731,
+                "latitudeDegrees": 78.300083,
                 "heightMeters": 0
             },
             "orientation": {
@@ -12,14 +12,20 @@
                 "pitchDegrees": 0,
                 "rollDegrees": 0
             },
-            "pixelSize": 128,
-            "modelPath": "assets/glb/godzilla.glb"
+            "pixelSize": 64,
+            "modelPath": "assets/glb/chicken.glb",
+            "animation": {
+                "referenceName": "Chicken Dance",
+                "animationName": "Armature|mixamo.com|Layer0.001",
+                "animationSpeed": 1.0,
+                "animationLoop": true
+            }
         },
         {
-            "name": "Godzilla 2",
+            "name": "Penguin 1",
             "position": {
-                "longitudeDegrees": -0.1276,
-                "latitudeDegrees": 51.5074,
+                "longitudeDegrees": 77.153547,
+                "latitudeDegrees": -12.061832,
                 "heightMeters": 0
             },
             "orientation": {
@@ -28,13 +34,19 @@
                 "rollDegrees": 0
             },
             "pixelSize": 128,
-            "modelPath": "assets/glb/godzilla.glb"
+            "modelPath": "assets/glb/penguin.glb",
+            "animation": {
+                "referenceName": "Penguin Dance",
+                "animationName": "Scene",
+                "animationSpeed": 1.5,
+                "animationLoop": true
+            }
         },
         {
-            "name": "Godzilla 3",
+            "name": "Godzilla 1",
             "position": {
-                "longitudeDegrees": 139.6503,
-                "latitudeDegrees": 35.6762,
+                "longitudeDegrees": -157.901577,
+                "latitudeDegrees": 21.315382,
                 "heightMeters": 0
             },
             "orientation": {
@@ -46,10 +58,10 @@
             "modelPath": "assets/glb/godzilla.glb"
         },
         {
-            "name": "Godzilla 4",
+            "name": "Chicken 2",
             "position": {
-                "longitudeDegrees": 151.2093,
-                "latitudeDegrees": -33.8688,
+                "longitudeDegrees": -74.026065,
+                "latitudeDegrees": 40.697287,
                 "heightMeters": 0
             },
             "orientation": {
@@ -57,14 +69,20 @@
                 "pitchDegrees": 0,
                 "rollDegrees": 0
             },
-            "pixelSize": 128,
-            "modelPath": "assets/glb/godzilla.glb"
+            "pixelSize": 64,
+            "modelPath": "assets/glb/chicken.glb",
+            "animation": {
+                "referenceName": "Chicken Dance",
+                "animationName": "Armature|mixamo.com|Layer0.001",
+                "animationSpeed": 1.0,
+                "animationLoop": true
+            }
         },
         {
-            "name": "Godzilla 5",
+            "name": "Penguin 2",
             "position": {
-                "longitudeDegrees": 121.4737,
-                "latitudeDegrees": 31.2304,
+                "longitudeDegrees": -2.734457,
+                "latitudeDegrees": 51.501098,
                 "heightMeters": 0
             },
             "orientation": {
@@ -73,13 +91,19 @@
                 "rollDegrees": 0
             },
             "pixelSize": 128,
-            "modelPath": "assets/glb/godzilla.glb"
+            "modelPath": "assets/glb/penguin.glb",
+            "animation": {
+                "referenceName": "Penguin Dance",
+                "animationName": "Scene",
+                "animationSpeed": 1.5,
+                "animationLoop": true
+            }
         },
         {
-            "name": "Godzilla 6",
+            "name": "Godzilla 2",
             "position": {
-                "longitudeDegrees": 2.3522,
-                "latitudeDegrees": 48.8566,
+                "longitudeDegrees": 139.852794,
+                "latitudeDegrees": 35.595292,
                 "heightMeters": 0
             },
             "orientation": {
@@ -91,10 +115,10 @@
             "modelPath": "assets/glb/godzilla.glb"
         },
         {
-            "name": "Godzilla 7",
+            "name": "Chicken 3",
             "position": {
-                "longitudeDegrees": 12.4964,
-                "latitudeDegrees": 41.9028,
+                "longitudeDegrees": 72.547446,
+                "latitudeDegrees": 21.135265,
                 "heightMeters": 0
             },
             "orientation": {
@@ -102,14 +126,41 @@
                 "pitchDegrees": 0,
                 "rollDegrees": 0
             },
-            "pixelSize": 128,
-            "modelPath": "assets/glb/godzilla.glb"
+            "pixelSize": 64,
+            "modelPath": "assets/glb/chicken.glb",
+            "animation": {
+                "referenceName": "Chicken Dance",
+                "animationName": "Armature|mixamo.com|Layer0.001",
+                "animationSpeed": 1.0,
+                "animationLoop": true
+            }
         },
         {
-            "name": "Godzilla 8",
+            "name": "Penguin 3",
             "position": {
-                "longitudeDegrees": -58.3816,
-                "latitudeDegrees": -34.6037,
+                "longitudeDegrees": 171.168860,
+                "latitudeDegrees": -45.928946,
+                "heightMeters": 0
+            },
+            "orientation": {
+                "headingDegrees": 90,
+                "pitchDegrees": 0,
+                "rollDegrees": 0
+            },
+            "pixelSize": 128,
+            "modelPath": "assets/glb/penguin.glb",
+            "animation": {
+                "referenceName": "Penguin Dance",
+                "animationName": "Scene",
+                "animationSpeed": 1.5,
+                "animationLoop": true
+            }
+        },
+        {
+            "name": "Godzilla 3",
+            "position": {
+                "longitudeDegrees": 18.423300,
+                "latitudeDegrees": -33.918861,
                 "heightMeters": 0
             },
             "orientation": {
