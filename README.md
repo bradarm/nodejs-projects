@@ -10,3 +10,4 @@ A collection of hobbyist Node.js projects.
 ### CesiumJS
 - [CesiumJS Devcontainer](cesiumjs/sample-cesiumjs-devcontainer/README.md)
 - [GLB Injector](cesiumjs/glb-injector/README.md)
+- [Satellite Visualizer](cesiumjs/satellite-visualizer/README.md)
